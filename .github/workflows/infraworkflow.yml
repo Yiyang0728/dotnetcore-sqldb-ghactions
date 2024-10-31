@@ -4,6 +4,7 @@ on:
         paths: 
         - 'ARM/**'
         - '.github/workflows/infraworkflow.yml'
+        
 permissions:
   id-token: write
 env:
